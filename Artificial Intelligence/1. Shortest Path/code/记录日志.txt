@@ -1,0 +1,20 @@
+--------------------------------
+->最短距离为：418
+  最短路线为：Arad -> Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest
+--------------------------------
+->最短距离为：445
+  最短路线为：Fagaras -> Sibiu -> RimnicuVilcea -> Craiova -> Dobreta
+--------------------------------
+->最短距离为：421
+  最短路线为：Mehadia -> Dobreta -> Craiova -> RimnicuVilcea -> Sibiu
+--------------------------------
+->最短距离为：445
+  最短路线为：Fagaras -> Sibiu -> RimnicuVilcea -> Craiova -> Dobreta
+--------------------------------
+->最短距离为：418
+  最短路线为：Arad -> Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest
+--------------------------------
+->最短距离为：418
+
+  最短路线为：Arad -> Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest
+          

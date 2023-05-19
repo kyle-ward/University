@@ -1,0 +1,5 @@
+5134		5134		5134		5134		5134		5134		5134		5134		5134		0134		1034		1234		1234		1234		1234		1234		
+278c		278c		278c		278c		278c		2780		2708		2078		0278		5278		5278		5078		5678		5678		5678		5678		
+96bf		96bf		96bf		96bf		96b0		96bc		96bc		96bc		96bc		96bc		96bc		96bc		90bc		9abc		9abc		9abc		
+0dae		d0ae		da0e		dae0		daef		daef		daef		daef		daef		daef		daef		daef		daef		d0ef		de0f		def0		
+steps = 15

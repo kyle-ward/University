@@ -1,0 +1,10 @@
+s = "\n\tSchool of Computer Science and Engineering \n"
+print(s)
+print(s.lstrip())
+print(s.rstrip())
+print(s.strip())
+print("--------------------------")
+ss = s.strip()
+print(ss.upper())
+print(ss.lower())
+print(ss.title())

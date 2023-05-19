@@ -1,0 +1,9 @@
+4
+Father(Dell, Stephen)
+Father(Jack, Dell)
+Father(Dell, Seth)
+GrandFather(Jack, Stephen)
+
+
+(Father(z, y) ^ Father(x, z)) -> GrandFather(x, y)
+GrandFather(Jack, Seth)
