@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/王健阳/Pictures/Camera%20Roll/SYSU/图片1.png" title="" alt="" data-align="center">
+<img src="logo.png" title="" alt="" data-align="center">
 
 # 操作系统原理实验报告
 
