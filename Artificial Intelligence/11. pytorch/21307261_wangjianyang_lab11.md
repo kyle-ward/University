@@ -270,9 +270,9 @@ optim_type = 0  # Adam或者SCG优化器
 
 1
 
-<img title="" src="pic/my/L1.png" alt="" width="427">
+<img src="pic/my/l1.png" title="" alt="" width="429">
 
-<img title="" src="pic/my/A1.png" alt="" width="431">
+<img src="pic/my/a1.png" title="" alt="" width="429">
 
 2
 
